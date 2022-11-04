@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kymberlly Ortiz
 - 👀 I’m interested in interface design
 - 🌱 I’m currently learning on Java
-- 💞️ I’m looking to collaborate on coding basics
+- 💞️ I’m looking to collaborate on basic coding
 - 📫 How to reach me: kmbcodesigning@gmail.com
 
 <!---
