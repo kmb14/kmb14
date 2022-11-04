@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmb14
+- 👋 Hi, I’m @kmbcodes
 - 👀 I’m interested in interface design
 - 🌱 I’m currently learning on Java
 - 💞️ I’m looking to collaborate on coding basics
